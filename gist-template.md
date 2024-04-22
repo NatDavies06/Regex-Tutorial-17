@@ -57,7 +57,6 @@ Character classes define a set of character matches. In our regex email, `[a-z0-
 
 Example:
 
-
 ### Grouping and Capturing
 
 Parentheses `()` are used for grouping and catching substrings. In our email regex, they capture the local part, domain and domain extension seperately.
