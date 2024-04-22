@@ -47,23 +47,34 @@ OR operator (`i`) allows alternative matches. In the email regex, it lets the do
 
 `/(abc|def)/`
 
-Example:
+Example: 
+
+`abc matches the OR condition, because it's one of the specified alternatives.`
 
 ### Character Classes
 
-### Flags
+Character classes define a set of character matches. In our regex email, [a-z0-9_\.-] matches lowercase letters, digits, underscores, hyphens nad dots in the local part of the email.
+
+Example:
+
 
 ### Grouping and Capturing
 
+Parentheses `()` are used for grouping and catching substrings. In our email regex, they capture the local part, domain and domain extension seperately.
+
+`/(abc)/`
+
+Example:
+
+abc is captured as a substring for later processing.
+
+
 ### Bracket Expressions
 
-### Greedy and Lazy Match
 
-### Boundaries
 
 ### Back-references
 
-### Look-ahead and Look-behind
 
 ## Author
 
