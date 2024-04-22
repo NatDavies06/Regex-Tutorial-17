@@ -77,7 +77,7 @@ Bracket expressions `[...]` match any character within the set. In our email reg
 
 Example:
 
-5 matchs the bracket expression, becasue it's a digit.
+`5 matchs the bracket expression, becasue it's a digit.`
 
 ## Author
 
