@@ -18,6 +18,7 @@ This pattern is made to validate email adresses entered by a user.
 - [Character Classes](#character-classes)
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
+- [Author](#author)
 
 ## Regex Components
 
