@@ -81,7 +81,7 @@ Example:
 
 ## Author
 
-My name is Nathan Davis, I'm currently a enrolled in the University of Minesota Coding Bootcamp. Can't wait to see what the future holds.
+My name is Nathan Davis, and I'm currently enrolled in the University of Minesota Coding Bootcamp. I can't wait to see what the future holds!
 
 Github: 
 
