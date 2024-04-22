@@ -53,7 +53,7 @@ Example:
 
 ### Character Classes
 
-Character classes define a set of character matches. In our regex email, [a-z0-9_\.-] matches lowercase letters, digits, underscores, hyphens nad dots in the local part of the email.
+Character classes define a set of character matches. In our regex email, `[a-z0-9_\.-]` matches lowercase letters, digits, underscores, hyphens nad dots in the local part of the email.
 
 Example:
 
@@ -64,18 +64,23 @@ Parentheses `()` are used for grouping and catching substrings. In our email reg
 
 `/(abc)/`
 
-Example:
+For instance:
 
-abc is captured as a substring for later processing.
+`abc is captured as a substring for later processing.`
 
 
 ### Bracket Expressions
 
+Bracket expressions `[...]` match any character within the set. In our email regex `[\da-z\.-]` matches digits, lower case letters, dots and hyphens in the domain.
 
+`[\da-z\.-]`
 
-### Back-references
+Example:
 
+5 matchs the bracket expression, becasue it's a digit.
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Nathan Davis, I'm currently a enrolled in the University of Minesota Coding Bootcamp. Can't wait to see what the future holds.
+
+Github: 
