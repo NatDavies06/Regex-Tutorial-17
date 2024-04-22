@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hey there, and welcome to the 'Not Another Regex Tutroial'! Far from qualified, this tutorial is your ticket to "mastering" regular expressions (regex) in JavaScript. These tools allow us to find, validate, search, and replace patterns in a string.
+Hey there, and welcome to the 'Not Another Regex Tutorial'. Far from qualified, this tutorial is your ticket to "mastering" regular expressions (regex) in JavaScript. These tools allow us to find, validate, search, and replace patterns in a string.
 
 ## Summary
 
