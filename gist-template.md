@@ -1,4 +1,4 @@
-# Regex Turtorial
+# Not Another Regex Turtorial
 
 Regex is a tool for pattern matching  within a string in JavaScript. I aim to explain the functionality of a regex pattern by breaking down each component and its purpose.
 
